@@ -1,3 +1,3 @@
 # Welcome to BizCofe!
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/TianzeWang/BizCafe/blob/master/photos.png "Logo Title Text 1")
